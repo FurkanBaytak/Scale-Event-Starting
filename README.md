@@ -1,0 +1,2 @@
+# Scale Event Starting
+ Scale Event Starting! The game is a Top-Down Shooter game, there are 2 bosses and 6 types of enemies in the game, we are trying to survive for 4 minutes in the game, we are trying to survive for 4 minutes in minutes 2 and 4, the bosses are coming, we are fighting against enemies using our pistol and weapons that fall to the ground, and we are using your dash and slow motion features to help us in this battle, are you ready for this battle with metal music?
