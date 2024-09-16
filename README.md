@@ -3,6 +3,15 @@
 
 _A high-octane Top-Down Shooter game developed in Unity during the GMTK 2024 Game Jam._
 
+## Screenshots
+
+![Gameplay GIF](1.gif)
+
+![Screenshot 1](2.png)
+![Screenshot 2](3.png)
+![Screenshot 3](4.png)
+![Screenshot 4](5.png)
+
 ## Table of Contents
 
 - [About the Game](#about-the-game)
@@ -40,6 +49,11 @@ Play the game on our [itch.io page](https://baytak.itch.io/scale-event-starting)
 2. Download the game for your platform.
 3. Unzip the downloaded file.
 4. Run the executable to start playing!
+
+### Download the Executable
+
+[Download the latest version](https://github.com/FurkanBaytak/Scale-Event-Starting/releases/tag/v1.0.0)
+
 
 ## How to Play
 
