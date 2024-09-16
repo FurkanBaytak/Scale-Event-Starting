@@ -1,0 +1,1077 @@
+fileFormatVersion: 2
+guid: 659d1a6cb7bcd864fbdcad2a38de8b69
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 195
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ec8d9c3a8494547bc1a400679b9d96
+      internalID: -1239898926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 198
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c3ca64f2d45b04ca3051d3c5e82a6b
+      internalID: -1399378073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 198
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffd8f8a2a8030e46b62c97c6903609b
+      internalID: 1152519354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 198
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365b047a101bd2f43887e63e817101ce
+      internalID: -654613903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 195
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726c3987b57e08a41913c35d03bc9103
+      internalID: 13062605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 199
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaed15103efa7142939a45a951024e1
+      internalID: -56605157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 198
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85baeb5d9a3d25e46a851a63c050ad6c
+      internalID: -190896909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 198
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162bfea5e55bbf3429f1701b914eb71c
+      internalID: 1370531160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 195
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525de24cfbc62ee4a9c31b5a78c5cdca
+      internalID: -1622926421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 198
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea02e931e49c684389496a7a36a0c83
+      internalID: 116430219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 198
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5dadf660d292f4bb1627898b29b309
+      internalID: 1679921339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 198
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4650d5b62d27441b25399ee2b360bf
+      internalID: 1443749928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 195
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780a7efb4b3407d40aa8bb5c54f7bff2
+      internalID: -1570505246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 197
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54461a1a64bda4b4cb51365b05d941a5
+      internalID: 723120299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 198
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8021f1340eb4a49a940993742a2fa9
+      internalID: -619148034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 198
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f10a3666b2ceda4b926bf1b469413bb
+      internalID: 656225304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 195
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c65059ea29fed8419f2574ffcdf38c4
+      internalID: 1497067618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 198
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69058c895f78ef43bb28dac22dcb068
+      internalID: 684063112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 198
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a163360fd4366e348b4e760eeca01a41
+      internalID: 1302335713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 198
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88eae8f5d0db9df46a843abdafadc862
+      internalID: -737835103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 195
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab63a07b41abb64c909b3af9e98a9cb
+      internalID: -840344471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 199
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee07fff5d10290140b027b53d7f7427d
+      internalID: 841396558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 198
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf76a1872324234686594830ba8470f
+      internalID: -1959848062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 198
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ccf8edaf1bf3b4e8b788bcf6f44200
+      internalID: 69518451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 195
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe0c20c199418a45ae54e498527520b
+      internalID: 1818900066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 198
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457ced73a7fc54945ae92cc1c926bc43
+      internalID: -1200149061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 198
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8d614aa5c1b35498309ee86d9437ef
+      internalID: 1918470027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 198
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccddb8af541fba141ad367f3016a4b5f
+      internalID: 970059780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 117
+        width: 100
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3389a5b5e1097341a1e8e157d1dadad
+      internalID: -775946923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 117
+        width: 90
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40471c05d54d0354da8935e461e62103
+      internalID: 1219601422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 117
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572dd4f2e1f4b3b4fba25b69472e07af
+      internalID: 2147397016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 117
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fadb9661efa18142a5bb96b4795d80f
+      internalID: -192283321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 117
+        width: 88
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1718c4149ba02d40b2f022768fbb2ab
+      internalID: 2001150965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 117
+        width: 90
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36348670f4ff7942b4a0e2377f6a481
+      internalID: -1812104500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 117
+        width: 100
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c7929773dc13549966847ea114470f
+      internalID: 1291801017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 55
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81563d1be50f89347a4e4ae7dd5554bf
+      internalID: 1941731752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 55
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e15fd90065c0a948b93c9924c067a8e
+      internalID: -1300197991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 55
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bd2278cd03cbc4aa318194ff20ce8a
+      internalID: 785186167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 55
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6922e492afa5dc4db642b87a017b9b1
+      internalID: 1255122383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 55
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df57e8f601071348a97ef0136c52ab8
+      internalID: -1155246955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 55
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb7f76bd8fb13c4790580fce01b88ff
+      internalID: -40816502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: karakterler yeni (1)-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 55
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4cb68667f8b254795a41e18038615e
+      internalID: -1028812599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      karakterler yeni (1)-Sheet_0: -1239898926
+      karakterler yeni (1)-Sheet_1: -1399378073
+      karakterler yeni (1)-Sheet_10: 1679921339
+      karakterler yeni (1)-Sheet_11: 1443749928
+      karakterler yeni (1)-Sheet_12: -1570505246
+      karakterler yeni (1)-Sheet_13: 723120299
+      karakterler yeni (1)-Sheet_14: -619148034
+      karakterler yeni (1)-Sheet_15: 656225304
+      karakterler yeni (1)-Sheet_16: 1497067618
+      karakterler yeni (1)-Sheet_17: 684063112
+      karakterler yeni (1)-Sheet_18: 1302335713
+      karakterler yeni (1)-Sheet_19: -737835103
+      karakterler yeni (1)-Sheet_2: 1152519354
+      karakterler yeni (1)-Sheet_20: -840344471
+      karakterler yeni (1)-Sheet_21: 841396558
+      karakterler yeni (1)-Sheet_22: -1959848062
+      karakterler yeni (1)-Sheet_23: 69518451
+      karakterler yeni (1)-Sheet_24: 1818900066
+      karakterler yeni (1)-Sheet_25: -1200149061
+      karakterler yeni (1)-Sheet_26: 1918470027
+      karakterler yeni (1)-Sheet_27: 970059780
+      karakterler yeni (1)-Sheet_28: -775946923
+      karakterler yeni (1)-Sheet_29: 1219601422
+      karakterler yeni (1)-Sheet_3: -654613903
+      karakterler yeni (1)-Sheet_30: 2147397016
+      karakterler yeni (1)-Sheet_31: -192283321
+      karakterler yeni (1)-Sheet_32: 2001150965
+      karakterler yeni (1)-Sheet_33: -1812104500
+      karakterler yeni (1)-Sheet_34: 1291801017
+      karakterler yeni (1)-Sheet_35: 1941731752
+      karakterler yeni (1)-Sheet_36: -1300197991
+      karakterler yeni (1)-Sheet_37: 785186167
+      karakterler yeni (1)-Sheet_38: 1255122383
+      karakterler yeni (1)-Sheet_39: -1155246955
+      karakterler yeni (1)-Sheet_4: 13062605
+      karakterler yeni (1)-Sheet_40: -40816502
+      karakterler yeni (1)-Sheet_41: -1028812599
+      karakterler yeni (1)-Sheet_5: -56605157
+      karakterler yeni (1)-Sheet_6: -190896909
+      karakterler yeni (1)-Sheet_7: 1370531160
+      karakterler yeni (1)-Sheet_8: -1622926421
+      karakterler yeni (1)-Sheet_9: 116430219
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
