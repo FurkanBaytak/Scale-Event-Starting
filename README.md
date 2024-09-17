@@ -87,6 +87,6 @@ This project is licensed under the **MIT License**—see the [LICENSE](LICENSE) 
 - **[Furkan BAYTAK](https://github.com/FurkanBaytak)**
 - **[Furkan OZKAYA](https://github.com/Elhier0)**
 - **[Arda ATMACA](https://github.com/WaterArchery)**
-- **[Mehmet Adil ARKAN]()**
+- **[Mehmet Adil ARKAN](https://github.com/arkanmehmetadil)**
 
 ---
